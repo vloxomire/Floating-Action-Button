@@ -19,6 +19,7 @@ private FloatingActionButton botonFlotante;
         botonFlotante=findViewById(R.id.flotanteBoton);
         //listener
         ListenerFloatingButton1 listenerFloatingButton1=new ListenerFloatingButton1(this);
+        //seteo
         botonFlotante.setOnClickListener(listenerFloatingButton1);
     }
 }
