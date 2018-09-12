@@ -3,4 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="indigo">#7986cb</color>
+    <color name="deepPurple">#d1c4e9</color>
+    <color name="lima">#c6ff00</color>
 </resources>
