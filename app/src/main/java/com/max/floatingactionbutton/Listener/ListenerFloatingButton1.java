@@ -15,5 +15,6 @@ public class ListenerFloatingButton1 implements View.OnClickListener{
     @Override
     public void onClick(View v) {
         Toast.makeText(context,"BotonFlotante",Toast.LENGTH_LONG).show();
+        context.set
     }
 }
